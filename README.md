@@ -1,3 +1,3 @@
 # fermionic-tqft
-wxMaxima code supporting a conjecture about a fermionic TQFT
-see the file readme.txt
+wxMaxima code supporting a conjecture about a fermionic TQFT.
+See the file readme.txt for details.
